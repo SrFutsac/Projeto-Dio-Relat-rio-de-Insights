@@ -1,0 +1,6 @@
+Você é um analista de dados especializado em vendas. Analise a planilha a seguir e responda:
+1. Quais são os produtos mais vendidos?
+2. Existe sazonalidade nas vendas?
+3. Quais regiões ou lojas se destacam em performance?
+4. Há alguma queda ou aumento abrupto que mereça atenção?
+Baseie-se nos dados e seja objetivo nas conclusões.
